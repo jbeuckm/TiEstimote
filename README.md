@@ -1,3 +1,5 @@
+Please note: I ordered a set of Estimotes but haven't seen them yet, so I can't test this code. 11/22/13
+
 ### Usage ###
 
 ```javascript
