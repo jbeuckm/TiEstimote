@@ -1,4 +1,5 @@
-Please note: I ordered a set of Estimotes but haven't seen them yet, so I can't test this code. 11/22/13
+~~Please note: I ordered a set of Estimotes but haven't seen them yet, so I can't test this code. 11/22/13~~
+Received the estimotes but have not tested yet 11/26/13
 
 ### Usage ###
 
